@@ -1,6 +1,11 @@
 package com.itcoke.utils;
 
+import io.netty.util.internal.StringUtil;
+
 import java.nio.ByteBuffer;
+import static io.netty.util.internal.StringUtil.NEWLINE;
+import static io.netty.util.internal.MathUtil.isOutOfBounds;
+
 
 
 public class ByteBufferUtil {
