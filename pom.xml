@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.itcoke</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>netty</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>netty-study</name>
     <description>netty-study project for Spring Boot</description>
